@@ -16,4 +16,4 @@ Minimalistyczny szablon startowy dla projektu "Smart City IoT" w C++20.
 
 ## Public PC Safety
 
-Po zajęciach na komputerach publicznych usuń globalne ustawienia: `git config --global --unset`.
+Po zajęciach na komputerach publicznych usuń globalne ustawienia, np. `git config --global --unset user.name` oraz `git config --global --unset user.email`.
