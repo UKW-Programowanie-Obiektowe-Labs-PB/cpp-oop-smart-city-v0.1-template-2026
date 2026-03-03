@@ -1,6 +1,6 @@
 CXX      = g++
 CXXFLAGS = -std=c++20 -Wall -Wextra -Wpedantic -Iinclude
-TARGET   = bin/smart_city
+TARGET   = bin/app
 SRCS     = src/main.cpp
 
 .PHONY: all build run clean
